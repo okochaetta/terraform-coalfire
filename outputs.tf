@@ -1,4 +1,4 @@
-output "public_id" {
+output "public_ip" {
   value = module.bastian.public_ip
 }
 
